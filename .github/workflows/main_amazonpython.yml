@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'amazonpython'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8DD8E4F7DBA4E61BD1C42B13DA7B8EF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_283AB56888B14D129D4E8CD64B9E6623 }}
